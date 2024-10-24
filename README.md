@@ -11,7 +11,7 @@ AWS Database Migration Service (DMS) facilitates quick and secure migrations of 
 
 ## Architecture
 
-![AWS-DMS](https://github.com/user-attachments/assets/bc1d2630-0568-4545-a914-a2e12947a9bc)
+![AWS-Database-Migration-Service](https://github.com/user-attachments/assets/8b4edff4-a1bb-4aaf-88cd-0309fd541756)
 
 - **Amazon RDS (MariaDB)**: A managed relational database service that allows you to set up, operate, and scale a relational database in the cloud.
 - **AWS DMS**: A service that helps to migrate databases to AWS quickly and securely. It handles the complexities of the migration process.
